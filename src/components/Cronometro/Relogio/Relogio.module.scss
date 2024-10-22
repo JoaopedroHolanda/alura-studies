@@ -1,0 +1,31 @@
+.relogioWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #7687A1;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 5rem;
+  margin-bottom: 24px;
+  padding: 16px 12px;
+  width: 100%;
+}
+
+.relogioNumero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #5D677C;
+  box-shadow: 2px 2px 4px #2B2B2B inset;
+  height: 3.6rem;
+  width: 3rem;
+  padding: 8px 4px;
+  border-radius: 10px;
+}
+
+.relogioDivisao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4.2rem;
+}
